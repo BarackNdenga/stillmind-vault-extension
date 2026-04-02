@@ -272,11 +272,10 @@ limitations under the License.
 
 
 
-🔗 Liens
+## 🔗 Liens
 
-· Backend Python
-· Documentation
-
+- [Signalement de bug](https://github.com/BarackNdenga/stillmind-vault-extension/issues)
+- [Suggestions d'amélioration](https://github.com/BarackNdenga/stillmind-vault-extension/issues)
 
 Développé par Barack Ndenga| 🧠 StillMind - L'agent qui n'oublie rien
 
