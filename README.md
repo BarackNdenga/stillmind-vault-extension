@@ -96,7 +96,7 @@ stillmind-vault/
 - 🐛 [Issues & Bugs](https://github.com/BarackNdenga/stillmind-vault-extension/issues)
 - 💡 [Fonctionnalités](https://github.com/BarackNdenga/stillmind-vault-extension/discussions)
 - 📖 [OpenRouter Docs](https://openrouter.ai/docs)
-- 🏪 [VSCode Marketplace](https://marketplace.visualstudio.com/) (à soumettre)
+- 🏪 [VSCode Marketplace](https://marketplace.visualstudio.com/)
 
 Développé par [Barack Ndenga](https://github.com/BarackNdenga)  
 🧠 **StillMind - L'agent qui booste votre productivité**
